@@ -10,5 +10,10 @@ h1{color:grey; font:verdana;}
     margin:auto;
 }
 
+label {
 
+	display: inline-block;
+	margin-right: 5px;
+	min-width: 80px;
+}
 
